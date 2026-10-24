@@ -373,3 +373,5 @@ OpenTasker supports localization. The current release ships English only; Englis
 4. Run `./gradlew :app:verifyLocaleResources` and submit the locale directory only when it passes
 
 No incomplete locale directories are kept as release placeholders. The gate reports the exact translated-string count when a locale falls below the threshold.
+
+<!-- push test from Pro-5, 2026-10-24 -->
